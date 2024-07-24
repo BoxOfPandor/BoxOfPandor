@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Currently a 2nd-year student at Epitech Lille, I'm passionate about software development and technological innovation.<br><br>🚀 I'm always looking for new challenges and collaborative projects. Feel free to reach out for any collaboration opportunities or just to chat about tech!<br><br>🌐 Let's connect and build something amazing together!
+🎓 Currently a 2nd-year student at Epitech Lille, I'm passionate about software development and technological innovation.<br><br>🚀 I'm always looking for new challenges and collaborative projects. Feel free to reach out for any collaboration opportunities or just to chat about tech!<br><br>📸 When I'm not coding, you can find me capturing moments through my lens, combining my love for technology and creativity.
 
 
 ## 🌐 Socials:
